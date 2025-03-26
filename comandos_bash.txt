@@ -1,0 +1,5 @@
+### Comandos
+1. **ls -a (List)** = Lista o conteúdo do diretório atual 
+2. **cd (Change Directory)** = Muda o diretório de trabalho atual  para outro diretório
+3. **pwd (Print Work Directory)** = Retorna o caminho absoluto do diretório de trabalho atual 
+4. **mkdir (Make Directory)** = Cria um novo diretório no diretório de trabalho atual
