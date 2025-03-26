@@ -1,5 +1,6 @@
-### Comandos
-1. **ls -a (List)** = Lista o conteúdo do diretório atual 
-2. **cd (Change Directory)** = Muda o diretório de trabalho atual  para outro diretório
-3. **pwd (Print Work Directory)** = Retorna o caminho absoluto do diretório de trabalho atual 
-4. **mkdir (Make Directory)** = Cria um novo diretório no diretório de trabalho atual
+### Comandos Git
+1. **git init . (Initialize Git Repository)** = Incia um repositório Git no diretório de trabalho atual, tonando-o versionável
+2. **git status** = Retorna o estado atual do repositório Git, informando uma lista dos arquivos versionados e não versionados
+3. **git add** = Adiciona um arquivo, e suas modificações, na lista de arquivos versionados
+4. **git commit -m** = Cria um ponto de progresso no repositório Git, solicitando ao usuário uma descrição do progresso realizado.
+5. **git config --global user.email** = Configura o usuário que está utilizando o git a partir da indicação do seu e-mail.
