@@ -1,0 +1,8 @@
+1. Cria o diretório do projeto
+2. Incia o repositório git com "git init ."
+3. Edita ou cria novos arquivos
+4. Verifica o status atual da lista de alterações "git status"
+5. Adiciona as alterações feitas no arquivo na lista de alterações "git add arquivo.txt"
+6. Repete o passo 4
+7. Cria um ponto de progresso com "git commit -m "descrição do progresso"
+8. Repete o passo 4
