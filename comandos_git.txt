@@ -4,3 +4,4 @@
 3. **git add** = Adiciona um arquivo, e suas modificações, na lista de arquivos versionados
 4. **git commit -m** = Cria um ponto de progresso no repositório Git, solicitando ao usuário uma descrição do progresso realizado.
 5. **git config --global user.email** = Configura o usuário que está utilizando o git a partir da indicação do seu e-mail.
+6. **git log** = Lista todos os commits feitos na sessão (pontos de progresso)
